@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tat1roliv&label=Profile%20views&color=0e75b6&style=flat" alt="tat1roliv" /> </p>
 
-- 🔭 I’m currently working on [FullStack](https://github.com/tat1roliv/FullStack)
+- 🔭 I’m currently working as Junior Front End Developer
 
 - 🌱 I’m currently learning **bootstrap, sass, react & nodejs**
 
@@ -11,12 +11,12 @@
 
 - 👨‍💻 Some of my projects are available at [http://www.tatioliv.live/](http://www.tatioliv.live/)
 
-- 💬 Ask me about **html, css, java**
+- 💬 Ask me about **html, css and JAVA**
 
 - ⚡ Fun fact **I have worked already in a lot of different projects as an architect.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="right">
 <a href="https://linkedin.com/in/tatiroliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tatiroliveira" height="30" width="40" /></a>
 <a href="https://instagram.com/tatiol_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tatiol_" height="30" width="40" /></a>
 <a href="https://www.behance.net/tat1oliv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tat1oliv" height="30" width="40" /></a>
