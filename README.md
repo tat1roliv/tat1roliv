@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **react & nodejs**
 
-- 👨‍💻 All of my projects are available at [http://www.tatioliv.live/](http://www.tatioliv.live/)
+- 👨‍💻 Some of my projects are available at [http://www.tatioliv.live/](http://www.tatioliv.live/)
 
 - 💬 Ask me about **html, css, java**
 
