@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Html, Css, Bootstrap and JAVA - Object-oriented programming and some Data structures**
 
-- ⚡ Fun fact **I have worked already in a lot of different projects as an architect.**
+- ⚡ <em>Fun fact</em> **I have worked already in a lot of different projects as an architect.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
