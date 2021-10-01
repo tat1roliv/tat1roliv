@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Tati 👋</h1>
-<h3 align="center">Front-end Developer </h3>
+<h1 align="center">Hi, I'm Tati 👋
+<br>Front-end Developer
+</h1>
+<!--h3 align="center">Front-end Developer </h3-->
 
 
 - 🔭 <em>I’m currently working as </em>Front-end Developer Junior
