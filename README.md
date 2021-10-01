@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Tati</h1>
-<h3 align="center">Front-End Developer</h3>
+<h1 align="center">Hi, I'm Tati 👋</h1>
+<h3 align="center">Front-end Developer</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tat1roliv&label=Profile%20views&color=0e75b6&style=flat" alt="tat1roliv" /> </p>
 
-- 🔭 I’m currently working as Junior Front End Developer
+- 🔭 I’m currently working as Front-end Developer Junior
 
-- 🌱 I’m currently learning **bootstrap, sass, react & nodejs**
+- 🌱 I’m currently learning **Sass, React & Nodejs**
 
-- 🤝 I’m looking for help with **react & nodejs**
+- 🤝 I’m looking for help with **Angular, React & Nodejs**
 
 - 👨‍💻 Some of my projects are available at [http://www.tatioliv.live/](http://www.tatioliv.live/)
 
-- 💬 Ask me about **html, css and JAVA**
+- 💬 Ask me about **Html, Css, Bootstrap and JAVA - Object-oriented programming and some Data structures**
 
 - ⚡ Fun fact **I have worked already in a lot of different projects as an architect.**
 
