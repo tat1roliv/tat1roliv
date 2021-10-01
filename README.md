@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tati 👋
-<br>Front-end Developer
+  <br><span style="font-size: 20px;">Front-end Developer</span>
 </h1>
 <!--h3 align="center">Front-end Developer </h3-->
 
