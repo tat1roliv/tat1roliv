@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working as Front-end Developer Junior
 
-- 🌱 I’m currently learning **Sass, React & Nodejs**
+- 🌱 <em>I’m currently learning </em>**Sass, React & Nodejs**
 
-- 🤝 I’m looking for help with **Angular, React & Nodejs**
+- 🤝 <em>I’m looking for help with </em>**Angular, React & Nodejs**
 
-- 👨‍💻 Some of my projects are available at [http://www.tatioliv.live/](http://www.tatioliv.live/)
+- 👨‍💻 <em>Some of my projects are available at </em>[http://www.tatioliv.live/](http://www.tatioliv.live/)
 
-- 💬 Ask me about **Html, Css, Bootstrap and JAVA - Object-oriented programming and some Data structures**
+- 💬 <em>Ask me about </em>**Html, Css, Bootstrap and JAVA - Object-oriented programming and some Data structures**
 
 - ⚡ <em>Fun fact</em> **I have worked already in a lot of different projects as an architect.**
 
