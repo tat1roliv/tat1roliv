@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Tati 👋</h1>
-<!--h3 align="center">Front-end Developer</h3-->
+<h3 align="center py-0">Front-end Developer</h3>
 
 
-- 🔭 I’m currently working as Front-end Developer Junior
+- 🔭 <em>I’m currently working as </em>Front-end Developer Junior
 
 - 🌱 <em>I’m currently learning </em>**Sass, React & Nodejs**
 
