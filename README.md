@@ -4,17 +4,17 @@
 <!--h3 align="center">Front-end Developer </h3-->
 
 
-- 🔭 <em>I’m currently working as </em>**  Front-end Developer Junior  **
+- 🔭 <em>I’m currently working as </em><strong>Front-end Developer Junior.</strong>
 
-- 🌱 <em>I’m currently learning </em>**   Sass, React & Nodejs  **
+- 🌱 <em>I’m currently learning </em><strong>Sass, React & Nodejs.</strong>
 
-- 🤝 <em>I’m looking for help with </em>**  Angular, React & Nodejs  **
+- 🤝 <em>I’m looking for help with </em><strong>Angular, React & Nodejs.</strong>
 
-- 👨‍💻 <em>Some of my projects are available at </em>** [http://www.tatioliv.live/](http://www.tatioliv.live/) **
+- 👨‍💻 <em>Some of my projects are available at </em><strong>[http://www.tatioliv.live/](http://www.tatioliv.live/)</strong>
 
-- 💬 <em>Ask me about </em>** Html, Css, Bootstrap and JAVA - Object-oriented programming and some Data structures **
+- 💬 <em>Ask me about </em><strong> Html, Css, Bootstrap and JAVA - Object-oriented programming and some Data structures.</strong>
 
-- ⚡ <em>Fun fact</em> **I have worked already in a lot of different projects as an architect.**
+- ⚡ <em>Fun fact</em><strong>I have worked already in a lot of different projects as an architect.</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
