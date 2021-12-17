@@ -3,9 +3,9 @@
 <!--h3 align="center">Front-end Developer </h3-->
 
 
-- 🔭 <em>I’m currently working as </em><strong>Front-end Developer Junior.</strong>
+- 🔭 <em>I’m currently working as </em><strong>Front-end Developer.</strong>
 
-- 🌱 <em>I’m currently learning </em><strong>Sass, React & Nodejs.</strong>
+- 🌱 <em>I’m currently learning </em><strong>Sass, JavaScript, Angular & Nodejs.</strong>
 
 - 🤝 <em>I’m looking for help with </em><strong>Angular, React & Nodejs.</strong>
 
