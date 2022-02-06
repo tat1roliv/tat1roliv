@@ -7,7 +7,7 @@
 
 - 🌱 <em>I’m currently learning </em><strong>Sass, JavaScript, Angular & Nodejs.</strong>
 
-- 🤝 <em>I’m looking for help with </em><strong>Angular, React & Nodejs.</strong>
+- 🤝 <em>I’m looking for help with </em><strong>Angular & React.</strong>
 
 - 👨‍💻 <em>Some of my projects are available at </em><strong>[http://www.tatioliv.live/](http://www.tatioliv.live/)</strong>
 
