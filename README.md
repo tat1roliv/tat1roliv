@@ -9,7 +9,7 @@
 
 - 🤝 <em>I’m looking for help with </em><strong>Angular & React.</strong>
 
-- 👨‍💻 <em>Some of my projects are available at </em><strong>[http://www.tatioliv.live/](http://www.tatioliv.live/)</strong>
+- 👨‍💻 <em>Some of my projects are available at </em><strong>[https://tatioliveira.tech/](https://tatioliveira.tech/)</strong>
 
 - 💬 <em>Ask me about </em><strong> Html, Css, Bootstrap and Java </strong>- Object-oriented programming and some Data structures.
 
